@@ -2,4 +2,6 @@
 2. Clone the project link and in the terminal save it where you want to for that use this command -- git clone https://github.com/FahadWangde/React-Native.git
 3. To check the status of github type git status
 4. To commit files into the github use -- git commit -m "anything regarding what you just did for the project example whether it is small file made any changes or adding new file"
-5. To finally lock your files into the github just use this command - git push .
+5. To finally lock your files into the github just use this command - git push (To push the new changes akways use this command).
+6. to add all multpile files in one go use - git add .
+7. to getup to the latest changes always use git pull command first.
