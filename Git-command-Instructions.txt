@@ -7,4 +7,5 @@
 7. to getup to the latest changes always use git pull command first.
 8. To see the branches type -- git branch
 9. To not to disturb main branch and use your own branch to do the change without making any changes in the main one use - git branch <new branch name>.
-10. to go into feature branch you created type - git branch checkout <new branch name yiu created>..
+10. to go into feature branch you should type - git checkout <new branch name you already created>..
+11. git merge branch <with main branch>
