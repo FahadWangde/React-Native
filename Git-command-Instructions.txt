@@ -5,3 +5,6 @@
 5. To finally lock your files into the github just use this command - git push (To push the new changes akways use this command).
 6. to add all multpile files in one go use - git add .
 7. to getup to the latest changes always use git pull command first.
+8. To see the branches type -- git branch
+9. To not to disturb main branch and use your own branch to do the change without making any changes in the main one use - git branch <new branch name>.
+10. to go into feature branch you created type - git branch checkout <new branch name yiu created>....
