@@ -1,0 +1,3 @@
+1. To create new project go to github and start new project in your respected repository and create new project giving any name you want.
+2. Clone the project link and in the terminal save it where you want to for that use this command -- git clone https://github.com/FahadWangde/React-Native.git
+3. To check the status of github type git status
